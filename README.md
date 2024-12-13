@@ -1,5 +1,9 @@
 # 🏗️ clean_architecture_feature
 
+# Release Note:
+
+Updated Clean Architecture Feature with Dart `3` compatibility
+
 # Installation
 
 Make sure you have Mason installed. If you don't have it installed, follow
@@ -10,7 +14,7 @@ configuration by adding the following code to your **mason.yaml** file:
 
 ```yaml
 bricks:
-  clean_architecture_feature: 0.0.3
+  clean_architecture_feature: 0.1.0
 ```
 
 # Usage
@@ -62,6 +66,7 @@ lib/
 ## Contributors 💻
 
 Jigar Fumakiya - [Linkedin](https://www.linkedin.com/in/jigar-fumakiya-3080b8b7/)
+Nadeem Iqbal - [Linkedin](https://www.linkedin.com/in/nadeem-iqbal-2510904b/)
 
 #### if you found this brick helpful, please consider showing your support by giving it a ⭐ on GitHub. Your support is greatly appreciated! 🙏🎉 Additionally, feel free to let me know if you have any suggestions for additional features.
 

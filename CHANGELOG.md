@@ -1,3 +1,7 @@
+# 0.1.0
+
+- Updated Clean Architecture Feature to support mason 0.1.0+
+
 # 0.0.3
 
 - Fixed issue with conflict on gitignore
