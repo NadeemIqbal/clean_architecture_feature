@@ -1,7 +1,7 @@
 # Name and description of the brick
-name: clean_architecture_feature
-description: A building block to easily create feature folders using the Clean Architecture approach.
-repository: https://github.com/jigarfumakiya/clean_architecture_feature
+name: clean_architecture_feature2
+description: A Clean Architecture feature folder template, forked from jigarfumakiya's, updated for compatibility.
+repository: https://github.com/NadeemIqbal/clean_architecture_feature
 
 # Version and build number of the brick
 version: 0.1.0
