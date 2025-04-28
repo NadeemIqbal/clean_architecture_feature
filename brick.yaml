@@ -6,10 +6,6 @@ repository: https://github.com/NadeemIqbal/clean_architecture_feature
 # Version and build number of the brick
 version: 0.1.0
 
-#authors:
-#  - jigarfumakiya
-#  - NadeemIqbal
-
 # Environment requirements for the brick
 environment:
   mason: ^0.1.0
